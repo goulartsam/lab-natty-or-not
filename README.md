@@ -1,14 +1,18 @@
 
 # Título do Projeto Extremamente Aesthetic ;)
+
 Contrato de Locação de Terreno para Samuel Goulart
 ## 📒 Descrição
 Breve descrição do seu projeto
+
 Elaborar um contrato de locação de terreno
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+
 Copilot da Microsoft
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+
 Escrevi no prompt do Copilot a seguinte solicitação:
 Atuar como um consultor imobiliário e criar um contrato de aluguel de um terreno na cidade de Betim, sem jargões jurídicos
 
@@ -17,6 +21,7 @@ Você pode incrementar as cláusulas contratuais deste contrato?
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+
 CONTRATO DE LOCAÇÃO DE TERRENO
 LOCADOR: [Nome do Locador], residente e domiciliado em [Endereço do Locador], portador do CPF [CPF do Locador].
 LOCATÁRIO: [Nome do Locatário], residente e domiciliado em [Endereço do Locatário], portador do CPF [CPF do Locatário].
@@ -48,4 +53,5 @@ ________________________________________
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+
 Acredito que seja possível criar algo "natty" com IA, pois a criação depende de quem está criando ou utilzando a IA.
